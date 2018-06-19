@@ -1,3 +1,3 @@
 # Snake-Game-Recreation
-- Main entry point is **SnakeGame.class**
+- Main entry point is **classes/SnakeGame.class**
 - Created in grade 12
